@@ -1,4 +1,5 @@
 _repo: The-Lights-on-Precipice-Peak_49826
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Newman, Francis William
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '4201'
     url: http://www.gutenberg.org/2009/agents/4201
     wikipedia: http://en.wikipedia.org/wiki/Francis_William_Newman
+covers:
+- cover_type: archival
+  image_path: 49826-h/images/cover.jpg
 creator:
   author:
     agent_name: Tall, Stephen
     gutenberg_agent_id: '45559'
     url: http://www.gutenberg.org/2009/agents/45559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49826#The-Lights-on-Precipice-Peak
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-08-30'
 gutenberg_type: Text
